@@ -1,0 +1,340 @@
+period_label,year,month,sector,enquiries_millions
+Mar'08,2008,3,All other entities,10.92
+Mar'08,2008,3,Banks and other financial institutions,58.11
+Mar'08,2008,3,Debt collection agencies,4.76
+Mar'08,2008,3,Retailers,24.51
+Mar'08,2008,3,Telecommunication providers,6.43
+Jun'08,2008,6,All other entities,13.18
+Jun'08,2008,6,Banks and other financial institutions,44.6
+Jun'08,2008,6,Debt collection agencies,5.68
+Jun'08,2008,6,Retailers,28.38
+Jun'08,2008,6,Telecommunication providers,10.71
+Sep'08,2008,9,All other entities,13.6
+Sep'08,2008,9,Banks and other financial institutions,42.86
+Sep'08,2008,9,Debt collection agencies,5.67
+Sep'08,2008,9,Retailers,40.98
+Sep'08,2008,9,Telecommunication providers,10.56
+Dec'08,2008,12,All other entities,12.99
+Dec'08,2008,12,Banks and other financial institutions,40.82
+Dec'08,2008,12,Debt collection agencies,5.59
+Dec'08,2008,12,Retailers,29.83
+Dec'08,2008,12,Telecommunication providers,12.3
+Mar'09,2009,3,All other entities,15.74
+Mar'09,2009,3,Banks and other financial institutions,41.86
+Mar'09,2009,3,Debt collection agencies,4.77
+Mar'09,2009,3,Retailers,22.39
+Mar'09,2009,3,Telecommunication providers,14.13
+Jun'09,2009,6,All other entities,11.76
+Jun'09,2009,6,Banks and other financial institutions,48.34
+Jun'09,2009,6,Debt collection agencies,15.93
+Jun'09,2009,6,Retailers,17.21
+Jun'09,2009,6,Telecommunication providers,28.75
+Sep'09,2009,9,All other entities,16.84
+Sep'09,2009,9,Banks and other financial institutions,49.4
+Sep'09,2009,9,Debt collection agencies,17.87
+Sep'09,2009,9,Retailers,21.46
+Sep'09,2009,9,Telecommunication providers,40.73
+Dec'09,2009,12,All other entities,13.79
+Dec'09,2009,12,Banks and other financial institutions,45.23
+Dec'09,2009,12,Debt collection agencies,11.33
+Dec'09,2009,12,Retailers,52.73
+Dec'09,2009,12,Telecommunication providers,23.79
+Mar'10,2010,3,All other entities,14.81
+Mar'10,2010,3,Banks and other financial institutions,53.04
+Mar'10,2010,3,Debt collection agencies,12.57
+Mar'10,2010,3,Retailers,18.67
+Mar'10,2010,3,Telecommunication providers,25.75
+Jun'10,2010,6,All other entities,12.16
+Jun'10,2010,6,Banks and other financial institutions,52.37
+Jun'10,2010,6,Debt collection agencies,16.97
+Jun'10,2010,6,Retailers,22.37
+Jun'10,2010,6,Telecommunication providers,31.48
+Sep'10,2010,9,All other entities,16.0
+Sep'10,2010,9,Banks and other financial institutions,76.34
+Sep'10,2010,9,Debt collection agencies,12.26
+Sep'10,2010,9,Retailers,57.89
+Sep'10,2010,9,Telecommunication providers,27.36
+Dec'10,2010,12,All other entities,16.17
+Dec'10,2010,12,Banks and other financial institutions,95.69
+Dec'10,2010,12,Debt collection agencies,12.36
+Dec'10,2010,12,Retailers,26.25
+Dec'10,2010,12,Telecommunication providers,26.18
+Mar'11,2011,3,All other entities,16.96
+Mar'11,2011,3,Banks and other financial institutions,130.22
+Mar'11,2011,3,Debt collection agencies,6.81
+Mar'11,2011,3,Retailers,19.23
+Mar'11,2011,3,Telecommunication providers,26.04
+Jun'11,2011,6,All other entities,15.07
+Jun'11,2011,6,Banks and other financial institutions,169.64
+Jun'11,2011,6,Debt collection agencies,7.06
+Jun'11,2011,6,Retailers,19.65
+Jun'11,2011,6,Telecommunication providers,38.28
+Sep'11,2011,9,All other entities,18.17
+Sep'11,2011,9,Banks and other financial institutions,192.51
+Sep'11,2011,9,Debt collection agencies,10.21
+Sep'11,2011,9,Retailers,13.42
+Sep'11,2011,9,Telecommunication providers,24.02
+Dec'11,2011,12,All other entities,17.08
+Dec'11,2011,12,Banks and other financial institutions,220.68
+Dec'11,2011,12,Debt collection agencies,10.95
+Dec'11,2011,12,Retailers,14.55
+Dec'11,2011,12,Telecommunication providers,22.69
+Mar'12,2012,3,All other entities,21.73
+Mar'12,2012,3,Banks and other financial institutions,236.31
+Mar'12,2012,3,Debt collection agencies,7.66
+Mar'12,2012,3,Retailers,11.89
+Mar'12,2012,3,Telecommunication providers,32.83
+Jun'12,2012,6,All other entities,21.7
+Jun'12,2012,6,Banks and other financial institutions,254.14
+Jun'12,2012,6,Debt collection agencies,5.4
+Jun'12,2012,6,Retailers,12.99
+Jun'12,2012,6,Telecommunication providers,37.62
+Sep'12,2012,9,All other entities,13.32
+Sep'12,2012,9,Banks and other financial institutions,262.0
+Sep'12,2012,9,Debt collection agencies,7.07
+Sep'12,2012,9,Retailers,14.04
+Sep'12,2012,9,Telecommunication providers,24.45
+Dec'12,2012,12,All other entities,14.89
+Dec'12,2012,12,Banks and other financial institutions,285.27
+Dec'12,2012,12,Debt collection agencies,3.88
+Dec'12,2012,12,Retailers,12.6
+Dec'12,2012,12,Telecommunication providers,22.56
+Mar'13,2013,3,All other entities,21.82
+Mar'13,2013,3,Banks and other financial institutions,328.68
+Mar'13,2013,3,Debt collection agencies,8.64
+Mar'13,2013,3,Retailers,15.18
+Mar'13,2013,3,Telecommunication providers,20.16
+Jun'13,2013,6,All other entities,15.76
+Jun'13,2013,6,Banks and other financial institutions,304.81
+Jun'13,2013,6,Debt collection agencies,4.53
+Jun'13,2013,6,Retailers,20.14
+Jun'13,2013,6,Telecommunication providers,14.76
+Sep'13,2013,9,All other entities,21.26
+Sep'13,2013,9,Banks and other financial institutions,304.22
+Sep'13,2013,9,Debt collection agencies,4.19
+Sep'13,2013,9,Retailers,11.41
+Sep'13,2013,9,Telecommunication providers,16.55
+Dec'13,2013,12,All other entities,26.81
+Dec'13,2013,12,Banks and other financial institutions,297.73
+Dec'13,2013,12,Debt collection agencies,3.26
+Dec'13,2013,12,Retailers,10.22
+Dec'13,2013,12,Telecommunication providers,10.64
+Mar'14,2014,3,All other entities,31.85
+Mar'14,2014,3,Banks and other financial institutions,278.12
+Mar'14,2014,3,Debt collection agencies,2.86
+Mar'14,2014,3,Retailers,11.88
+Mar'14,2014,3,Telecommunication providers,8.95
+Jun'14,2014,6,All other entities,28.68
+Jun'14,2014,6,Banks and other financial institutions,305.52
+Jun'14,2014,6,Debt collection agencies,4.38
+Jun'14,2014,6,Retailers,16.43
+Jun'14,2014,6,Telecommunication providers,10.76
+Sep'14,2014,9,All other entities,36.25
+Sep'14,2014,9,Banks and other financial institutions,311.16
+Sep'14,2014,9,Debt collection agencies,8.13
+Sep'14,2014,9,Retailers,11.49
+Sep'14,2014,9,Telecommunication providers,12.32
+Dec'14,2014,12,All other entities,65.84
+Dec'14,2014,12,Banks and other financial institutions,338.76
+Dec'14,2014,12,Debt collection agencies,3.02
+Dec'14,2014,12,Retailers,9.73
+Dec'14,2014,12,Telecommunication providers,15.36
+Mar'15,2015,3,All other entities,56.4
+Mar'15,2015,3,Banks and other financial institutions,251.74
+Mar'15,2015,3,Debt collection agencies,4.87
+Mar'15,2015,3,Retailers,10.03
+Mar'15,2015,3,Telecommunication providers,13.04
+Jun'15,2015,6,All other entities,62.65
+Jun'15,2015,6,Banks and other financial institutions,313.86
+Jun'15,2015,6,Debt collection agencies,3.9
+Jun'15,2015,6,Retailers,10.27
+Jun'15,2015,6,Telecommunication providers,22.08
+Sep'15,2015,9,All other entities,70.37
+Sep'15,2015,9,Banks and other financial institutions,262.1
+Sep'15,2015,9,Debt collection agencies,4.01
+Sep'15,2015,9,Retailers,26.19
+Sep'15,2015,9,Telecommunication providers,13.38
+Dec'15,2015,12,All other entities,98.55
+Dec'15,2015,12,Banks and other financial institutions,279.0
+Dec'15,2015,12,Debt collection agencies,3.1
+Dec'15,2015,12,Retailers,26.9
+Dec'15,2015,12,Telecommunication providers,11.14
+Mar'16,2016,3,All other entities,59.82
+Mar'16,2016,3,Banks and other financial institutions,288.18
+Mar'16,2016,3,Debt collection agencies,2.67
+Mar'16,2016,3,Retailers,26.52
+Mar'16,2016,3,Telecommunication providers,14.59
+Jun'16,2016,6,All other entities,74.36
+Jun'16,2016,6,Banks and other financial institutions,293.41
+Jun'16,2016,6,Debt collection agencies,3.71
+Jun'16,2016,6,Retailers,26.24
+Jun'16,2016,6,Telecommunication providers,36.65
+Sep'16,2016,9,All other entities,99.7
+Sep'16,2016,9,Banks and other financial institutions,257.26
+Sep'16,2016,9,Debt collection agencies,3.42
+Sep'16,2016,9,Retailers,29.83
+Sep'16,2016,9,Telecommunication providers,63.61
+Dec'16,2016,12,All other entities,115.5
+Dec'16,2016,12,Banks and other financial institutions,256.56
+Dec'16,2016,12,Debt collection agencies,3.85
+Dec'16,2016,12,Retailers,26.93
+Dec'16,2016,12,Telecommunication providers,43.6
+Mar'17,2017,3,All other entities,94.84
+Mar'17,2017,3,Banks and other financial institutions,280.1
+Mar'17,2017,3,Debt collection agencies,5.26
+Mar'17,2017,3,Retailers,30.01
+Mar'17,2017,3,Telecommunication providers,26.23
+Jun'17,2017,6,All other entities,146.17
+Jun'17,2017,6,Banks and other financial institutions,269.75
+Jun'17,2017,6,Debt collection agencies,3.0
+Jun'17,2017,6,Retailers,25.43
+Jun'17,2017,6,Telecommunication providers,35.62
+Sep'17,2017,9,All other entities,140.59
+Sep'17,2017,9,Banks and other financial institutions,161.36
+Sep'17,2017,9,Debt collection agencies,6.64
+Sep'17,2017,9,Retailers,33.06
+Sep'17,2017,9,Telecommunication providers,40.65
+Dec'17,2017,12,All other entities,140.33
+Dec'17,2017,12,Banks and other financial institutions,309.95
+Dec'17,2017,12,Debt collection agencies,3.81
+Dec'17,2017,12,Retailers,35.48
+Dec'17,2017,12,Telecommunication providers,40.54
+Mar'18,2018,3,All other entities,116.1
+Mar'18,2018,3,Banks and other financial institutions,244.36
+Mar'18,2018,3,Debt collection agencies,2.76
+Mar'18,2018,3,Retailers,32.36
+Mar'18,2018,3,Telecommunication providers,44.1
+Jun'18,2018,6,All other entities,176.66
+Jun'18,2018,6,Banks and other financial institutions,134.31
+Jun'18,2018,6,Debt collection agencies,2.55
+Jun'18,2018,6,Retailers,15.63
+Jun'18,2018,6,Telecommunication providers,46.17
+Sep'18,2018,9,All other entities,97.11
+Sep'18,2018,9,Banks and other financial institutions,424.18
+Sep'18,2018,9,Debt collection agencies,4.76
+Sep'18,2018,9,Retailers,58.13
+Sep'18,2018,9,Telecommunication providers,46.37
+Dec'18,2018,12,All other entities,162.32
+Dec'18,2018,12,Banks and other financial institutions,288.08
+Dec'18,2018,12,Debt collection agencies,6.89
+Dec'18,2018,12,Retailers,35.58
+Dec'18,2018,12,Telecommunication providers,62.45
+Mar'19,2019,3,All other entities,205.93
+Mar'19,2019,3,Banks and other financial institutions,333.76
+Mar'19,2019,3,Debt collection agencies,11.76
+Mar'19,2019,3,Retailers,22.64
+Mar'19,2019,3,Telecommunication providers,33.85
+Jun'19,2019,6,All other entities,116.19
+Jun'19,2019,6,Banks and other financial institutions,514.51
+Jun'19,2019,6,Debt collection agencies,4.07
+Jun'19,2019,6,Retailers,26.83
+Jun'19,2019,6,Telecommunication providers,86.59
+Sep'19,2019,9,All other entities,268.41
+Sep'19,2019,9,Banks and other financial institutions,584.93
+Sep'19,2019,9,Debt collection agencies,26.08
+Sep'19,2019,9,Retailers,38.68
+Sep'19,2019,9,Telecommunication providers,62.11
+Dec'19,2019,12,All other entities,403.84
+Dec'19,2019,12,Debt collection agencies,15.98
+Dec'19,2019,12,Retailers,22.65
+Dec'19,2019,12,Telecommunication providers,66.66
+Mar'20,2020,3,All other entities,128.0
+Mar'20,2020,3,Banks and other financial institutions,574.04
+Mar'20,2020,3,Debt collection agencies,15.56
+Mar'20,2020,3,Retailers,28.46
+Mar'20,2020,3,Telecommunication providers,67.15
+Jun'20,2020,6,All other entities,302.12
+Jun'20,2020,6,Banks and other financial institutions,319.65
+Jun'20,2020,6,Debt collection agencies,0.27
+Jun'20,2020,6,Retailers,51.63
+Jun'20,2020,6,Telecommunication providers,94.94
+Sep'20,2020,9,All other entities,410.85
+Sep'20,2020,9,Banks and other financial institutions,600.3
+Sep'20,2020,9,Debt collection agencies,2.38
+Sep'20,2020,9,Retailers,27.05
+Sep'20,2020,9,Telecommunication providers,50.15
+Dec'20,2020,12,All other entities,190.13
+Dec'20,2020,12,Banks and other financial institutions,416.76
+Dec'20,2020,12,Debt collection agencies,3.25
+Dec'20,2020,12,Retailers,70.59
+Dec'20,2020,12,Telecommunication providers,49.46
+Mar'21,2021,3,All other entities,195.46
+Mar'21,2021,3,Banks and other financial institutions,367.54
+Mar'21,2021,3,Debt collection agencies,2.88
+Mar'21,2021,3,Retailers,62.99
+Mar'21,2021,3,Telecommunication providers,49.39
+Jun'21,2021,6,All other entities,673.77
+Jun'21,2021,6,Banks and other financial institutions,449.48
+Jun'21,2021,6,Debt collection agencies,2.35
+Jun'21,2021,6,Retailers,57.18
+Jun'21,2021,6,Telecommunication providers,52.16
+Sep'21,2021,9,All other entities,106.8
+Sep'21,2021,9,Banks and other financial institutions,276.12
+Sep'21,2021,9,Debt collection agencies,2.28
+Sep'21,2021,9,Retailers,55.71
+Sep'21,2021,9,Telecommunication providers,24.05
+Dec'21,2021,12,All other entities,133.54
+Dec'21,2021,12,Banks and other financial institutions,306.18
+Dec'21,2021,12,Debt collection agencies,53.08
+Dec'21,2021,12,Retailers,63.12
+Dec'21,2021,12,Telecommunication providers,62.45
+Mar'22,2022,3,All other entities,165.57
+Mar'22,2022,3,Banks and other financial institutions,245.14
+Mar'22,2022,3,Debt collection agencies,72.9
+Mar'22,2022,3,Retailers,81.98
+Mar'22,2022,3,Telecommunication providers,54.33
+Jun'22,2022,6,All other entities,137.97
+Jun'22,2022,6,Banks and other financial institutions,207.06
+Jun'22,2022,6,Debt collection agencies,16.31
+Jun'22,2022,6,Retailers,69.22
+Jun'22,2022,6,Telecommunication providers,36.16
+Sep'22,2022,9,All other entities,159.09
+Sep'22,2022,9,Banks and other financial institutions,247.17
+Sep'22,2022,9,Debt collection agencies,27.49
+Sep'22,2022,9,Retailers,71.86
+Sep'22,2022,9,Telecommunication providers,41.37
+Dec'22,2022,12,All other entities,237.76
+Dec'22,2022,12,Banks and other financial institutions,177.39
+Dec'22,2022,12,Debt collection agencies,12.41
+Dec'22,2022,12,Retailers,67.86
+Dec'22,2022,12,Telecommunication providers,33.4
+Mar'23,2023,3,All other entities,219.28
+Mar'23,2023,3,Banks and other financial institutions,135.8
+Mar'23,2023,3,Debt collection agencies,10.14
+Mar'23,2023,3,Retailers,65.07
+Mar'23,2023,3,Telecommunication providers,31.44
+Jun'23,2023,6,All other entities,200.41
+Jun'23,2023,6,Banks and other financial institutions,153.95
+Jun'23,2023,6,Debt collection agencies,22.55
+Jun'23,2023,6,Retailers,71.41
+Jun'23,2023,6,Telecommunication providers,29.96
+Sep'23,2023,9,All other entities,241.81
+Sep'23,2023,9,Banks and other financial institutions,171.64
+Sep'23,2023,9,Debt collection agencies,5.97
+Sep'23,2023,9,Retailers,63.73
+Sep'23,2023,9,Telecommunication providers,9.6
+Dec'23,2023,12,All other entities,216.48
+Dec'23,2023,12,Banks and other financial institutions,173.28
+Dec'23,2023,12,Debt collection agencies,7.41
+Dec'23,2023,12,Retailers,94.89
+Dec'23,2023,12,Telecommunication providers,12.85
+Mar'24,2024,3,All other entities,287.67
+Mar'24,2024,3,Banks and other financial institutions,190.59
+Mar'24,2024,3,Debt collection agencies,28.58
+Mar'24,2024,3,Retailers,80.7
+Mar'24,2024,3,Telecommunication providers,10.78
+Jun'24,2024,6,All other entities,190.43
+Jun'24,2024,6,Banks and other financial institutions,221.81
+Jun'24,2024,6,Debt collection agencies,21.88
+Jun'24,2024,6,Retailers,99.92
+Jun'24,2024,6,Telecommunication providers,12.62
+Sep'24,2024,9,All other entities,212.28
+Sep'24,2024,9,Banks and other financial institutions,230.08
+Sep'24,2024,9,Debt collection agencies,9.43
+Sep'24,2024,9,Retailers,103.78
+Sep'24,2024,9,Telecommunication providers,16.02
+Dec'24,2024,12,All other entities,168.4
+Dec'24,2024,12,Banks and other financial institutions,125.89
+Dec'24,2024,12,Debt collection agencies,28.36
+Dec'24,2024,12,Retailers,106.95
+Dec'24,2024,12,Telecommunication providers,15.55

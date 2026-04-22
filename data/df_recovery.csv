@@ -1,0 +1,13 @@
+start_period,end_period,duration_quarters,start_value,end_value,total_reduction_millions,sustained
+Sep'10,Sep'10,1,8.59,8.49,0.1,False
+Mar'14,Mar'14,1,9.93,9.6,0.33,False
+Sep'15,Mar'16,3,10.53,9.55,0.98,True
+Dec'16,Mar'17,2,9.85,9.69,0.16,False
+Dec'17,Sep'18,4,9.87,8.98,0.89,True
+Mar'19,Mar'19,1,10.16,10.15,0.01,False
+Dec'19,Jun'20,3,10.8,10.0,0.8,True
+Dec'20,Jun'21,3,10.64,10.07,0.57,True
+Dec'21,Dec'21,1,10.17,9.88,0.29,False
+Jun'22,Dec'22,3,10.04,9.71,0.33,True
+Sep'23,Dec'23,2,10.02,9.9,0.12,False
+Sep'24,Sep'24,1,10.25,10.19,0.06,False
